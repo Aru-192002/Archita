@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aru-192002
+- 👋 Hi, I’m Archita
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
